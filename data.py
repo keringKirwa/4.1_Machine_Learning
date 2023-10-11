@@ -10,3 +10,12 @@ restaurant_data = [
     ["French", "Thai", "Burger", "Thai", "French", "Italian", "Burger", "Thai", "Burger", "Italian", "Thai", "Burger"],
     ["0-10", "30-60", "0-10", "10-30", ">60", "0-10", "0-10", "0-10", ">60", "10-30", "0-10", "30-60"]
 ]
+
+
+instance = {
+    "NumberOfDeviceRegistered": 2,
+    "PreferedOrderCat": "Mobiles",
+    "Tenure": 10,
+    "Gender": "Female",
+    "OrderCount": 3
+}
