@@ -1,0 +1,2 @@
+'This is indeed a fake product !,' said Alice. Before this time, all things seemed good until there was an error.
+For this case, the spacy code should return 'Was this even a  fake product ? ,'asked John.
